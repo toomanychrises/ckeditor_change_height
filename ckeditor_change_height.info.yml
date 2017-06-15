@@ -1,0 +1,8 @@
+name: CKEditor - Change height
+type: module
+description: Change CKEditor height
+package: CKEditor
+core: '8.x'
+version: '8.x-1.0'
+dependencies:
+ - system (>=8.3)
